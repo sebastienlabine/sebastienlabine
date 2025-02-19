@@ -5,8 +5,8 @@
 - 🌍 **Where** - I live in Montreal, Québec, Canada ⚜️
 
 - 💼 I worked as:
-  - **Senior Software Engineer, Team Lead** - Product & Engineering  [@clicknpark](https://github.com/EspaceParkQC)
-  - **Software Engineer** - Business Solutions Management [@CDPQ](https://cdpq.com)
+  - **Senior Software Developer, Team Lead** - Product & Engineering  [@clicknpark](https://github.com/EspaceParkQC)
+  - **Software Developer** - Business Solutions Management [@CDPQ](https://cdpq.com)
 - 👨🏽‍🎓 I Studied:
   - Software Engineering & Artificial Intelligence / Data Science [@Polytechnique Montréal](https://www.polymtl.ca/)
 
